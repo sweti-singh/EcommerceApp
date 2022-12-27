@@ -1,0 +1,98 @@
+{
+  "user": [
+    {
+      "username": "sweti",
+      "password": "123",
+      "name": "sweti singh",
+      "id": 1
+    },
+    {
+      "username": "neeraj",
+      "password": "456",
+      "name": "neeraj singh",
+      "id": 2
+    },
+    {
+      "username": "vandana",
+      "password": "789",
+      "name": "vandana singh",
+      "id": 3
+    },
+    {
+      "username": "aarti",
+      "password": "1256",
+      "id": 4
+    },
+    {
+      "username": "vandana.s",
+      "password": "Vandy@123",
+      "id": 5
+    }
+  ],
+  "items": [
+    {
+      "img": "./Images/saree1.jpg",
+      "name": "SAREE",
+      "price": 1000,
+      "id": 1,
+      "count": 0,
+      "status": false
+    },
+    {
+      "img": "./Images/saree2.webp",
+      "name": "SAREE",
+      "price": 2800,
+      "id": 2,
+      "count": 0,
+      "status": false
+    },
+    {
+      "img": "./Images/saree3.jpg",
+      "name": "SAREE",
+      "price": 500,
+      "id": 3,
+      "count": 0,
+      "status": false
+    },
+    {
+      "img": "./Images/saree4.webp",
+      "name": "SAREE",
+      "price": 7600,
+      "id": 4,
+      "count": 0,
+      "status": false
+    },
+    {
+      "img": "./Images/suit1.png",
+      "name": "SUIT",
+      "price": 600,
+      "id": 5,
+      "count": 0,
+      "status": false
+    },
+    {
+      "img": "./Images/suit2.jpg",
+      "name": "SUIT",
+      "price": 1700,
+      "id": 6,
+      "count": 0,
+      "status": false
+    },
+    {
+      "img": "./Images/suit3.jpg",
+      "name": "SUIT",
+      "price": 1080,
+      "id": 7,
+      "count": 0,
+      "status": false
+    },
+    {
+      "img": "./Images/western1.jpg",
+      "name": "WESTERN",
+      "price": 654,
+      "id": 8,
+      "count": 0,
+      "status": false
+    }
+  ]
+}
